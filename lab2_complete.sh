@@ -29,6 +29,7 @@ echo "Путь добавлен в contents.txt"
 echo -e "\n=== 5. Поиск студентов с двумя 'o' ==="
 cd ..
 cd ..
+cd ..
 cd os-labs/students-2025
 echo "Найденные файлы:"
 find . -maxdepth 1 -name "*o*o*.txt" -type f | while read file; do

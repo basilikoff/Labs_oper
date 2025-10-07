@@ -36,5 +36,34 @@ Killing_Is_My_Business
 Путь добавлен в contents.txt
 -e 
 === 5. Поиск студентов с двумя 'o' ===
-./lab2_complete.sh: line 32: cd: os-labs/students-2025: No such file or directory
 Найденные файлы:
+--- KoshevarovAD.txt ---
+1. Кошеваров Андрей Дмитриевич
+
+--- SazonovAD.txt ---
+1 Sazonov Artem Dmitriyevich
+
+--- KocherovaAA.txt ---
+Кочерова Александра Андреевна 
+
+--- LoykoSI.txt ---
+1) Лойко Степан Иванович
+
+--- BelogolovskyAA.txt ---
+Белоголовский Александр Антонович
+
+--- DrozdovSA.txt ---
+Дроздов Сергей Алексеевич
+
+--- ZobkovOV.txt ---
+1. Зобков Олег Витальевич
+
+--- RomanovDA.txt ---
+Романов Даниил Александрович
+
+--- ChesnokovDY.txt ---
+Chesnokov Danil Evgenyevich
+
+--- Pereskokov.txt ---
+Перескоков Даниил Сергеевич
+
