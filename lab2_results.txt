@@ -1,1 +1,40 @@
-zsh: no such file or directory: ./lab2_complete.sh
+==========================================
+Лабораторная работа - выполнение задания
+Группа: Megadeth
+==========================================
+-e 
+=== 1. Создание структуры директорий ===
+mkdir: Killing_Is_My_Business: File exists
+mkdir: Peace_Sells: File exists
+mkdir: So_Far_So_Good_So_What: File exists
+mkdir: Rust_In_Peace: File exists
+mkdir: Countdown_To_Extinction: File exists
+Директории созданы:
+total 0
+drwxr-xr-x   7 basilik_off  staff  224  7 окт 07:20 .
+drwxr-xr-x  12 basilik_off  staff  384  7 окт 07:41 ..
+drwxr-xr-x   3 basilik_off  staff   96  7 окт 07:21 Countdown_To_Extinction
+drwxr-xr-x   3 basilik_off  staff   96  7 окт 07:20 Killing_Is_My_Business
+drwxr-xr-x   3 basilik_off  staff   96  7 окт 07:21 Peace_Sells
+drwxr-xr-x   3 basilik_off  staff   96  7 окт 07:21 Rust_In_Peace
+drwxr-xr-x   3 basilik_off  staff   96  7 окт 07:21 So_Far_So_Good_So_What
+-e 
+=== 2. Создание файлов contents.txt ===
+./So_Far_So_Good_So_What/contents.txt
+./Killing_Is_My_Business/contents.txt
+./Rust_In_Peace/contents.txt
+./Peace_Sells/contents.txt
+./Countdown_To_Extinction/contents.txt
+-e 
+=== 3. Первые два альбома по алфавиту ===
+Результат:
+Countdown_To_Extinction
+Killing_Is_My_Business
+-e 
+=== 4. Добавление полного пути ===
+Текущий путь: /Users/basilik_off/Labs_oper/Megadeth/Rust_In_Peace
+Путь добавлен в contents.txt
+-e 
+=== 5. Поиск студентов с двумя 'o' ===
+./lab2_complete.sh: line 32: cd: os-labs/students-2025: No such file or directory
+Найденные файлы:
