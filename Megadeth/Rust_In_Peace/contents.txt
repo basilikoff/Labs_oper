@@ -18,3 +18,4 @@ Rust in Peace
 /Users/basilik_off/Labs_oper/Megadeth/Rust_In_Peace
 /Users/basilik_off/Labs_oper/Megadeth/Rust_In_Peace
 /Users/basilik_off/Labs_oper/Megadeth/Rust_In_Peace
+/Users/basilik_off/Labs_oper/Megadeth/Rust_In_Peace
