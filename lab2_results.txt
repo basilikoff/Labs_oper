@@ -12,7 +12,7 @@ mkdir: Countdown_To_Extinction: File exists
 Директории созданы:
 total 0
 drwxr-xr-x   7 basilik_off  staff  224  7 окт 05:24 .
-drwxr-xr-x  11 basilik_off  staff  352  7 окт 06:11 ..
+drwxr-xr-x  12 basilik_off  staff  384  7 окт 06:24 ..
 drwxr-xr-x   3 basilik_off  staff   96  7 окт 05:26 Countdown_To_Extinction
 drwxr-xr-x   3 basilik_off  staff   96  7 окт 05:25 Killing_Is_My_Business
 drwxr-xr-x   3 basilik_off  staff   96  7 окт 05:25 Peace_Sells
