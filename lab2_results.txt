@@ -1,1 +1,64 @@
-zsh: no such file or directory: ./lab2_complete.sh
+==========================================
+Лабораторная работа - выполнение задания
+Группа: Megadeth
+==========================================
+-e 
+=== 1. Создание структуры директорий ===
+mkdir: Killing_Is_My_Business: File exists
+mkdir: Peace_Sells: File exists
+mkdir: So_Far_So_Good_So_What: File exists
+mkdir: Rust_In_Peace: File exists
+mkdir: Countdown_To_Extinction: File exists
+Директории созданы:
+total 0
+drwxr-xr-x   7 basilik_off  staff  224  7 окт 05:24 .
+drwxr-xr-x  11 basilik_off  staff  352  7 окт 06:11 ..
+drwxr-xr-x   3 basilik_off  staff   96  7 окт 05:26 Countdown_To_Extinction
+drwxr-xr-x   3 basilik_off  staff   96  7 окт 05:25 Killing_Is_My_Business
+drwxr-xr-x   3 basilik_off  staff   96  7 окт 05:25 Peace_Sells
+drwxr-xr-x   3 basilik_off  staff   96  7 окт 05:26 Rust_In_Peace
+drwxr-xr-x   3 basilik_off  staff   96  7 окт 05:25 So_Far_So_Good_So_What
+-e 
+=== 2. Создание файлов contents.txt ===
+-e 
+=== 3. Первые два альбома по алфавиту ===
+Результат:
+Countdown_To_Extinction
+Killing_Is_My_Business
+-e 
+=== 4. Добавление полного пути ===
+Текущий путь: /Users/basilik_off/labs_oper/Megadeth/Rust_In_Peace
+Путь добавлен в contents.txt
+-e 
+=== 5. Поиск студентов с двумя 'o' ===
+Найденные файлы:
+--- KoshevarovAD.txt ---
+1. Кошеваров Андрей Дмитриевич
+
+--- SazonovAD.txt ---
+1 Sazonov Artem Dmitriyevich
+
+--- KocherovaAA.txt ---
+Кочерова Александра Андреевна 
+
+--- LoykoSI.txt ---
+1) Лойко Степан Иванович
+
+--- BelogolovskyAA.txt ---
+Белоголовский Александр Антонович
+
+--- DrozdovSA.txt ---
+Дроздов Сергей Алексеевич
+
+--- ZobkovOV.txt ---
+1. Зобков Олег Витальевич
+
+--- RomanovDA.txt ---
+Романов Даниил Александрович
+
+--- ChesnokovDY.txt ---
+Chesnokov Danil Evgenyevich
+
+--- Pereskokov.txt ---
+Перескоков Даниил Сергеевич
+
