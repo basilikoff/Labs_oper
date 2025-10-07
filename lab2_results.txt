@@ -1,1 +1,1 @@
-zsh: no such file or directory: ./megadeth_lab_complete.sh
+zsh: no such file or directory: ./lab2_complete.sh
